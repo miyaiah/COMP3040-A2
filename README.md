@@ -20,16 +20,20 @@ Hosting a resume on GitHub does not require you to download lots of complicated 
 
 ## Authors and Acknowledgments
 **Written by:** Asia Miyai
+
+
 **Edited by:** Humayra Anjum Rafi, Patrick Yutuc, Joe Smith, Kamarabbas Saiyed
-**Thank you to:**
-A Good README Template by Billie Thompson github.com/PurpleBooth/a-good-readme-template
+
+
+**Thank you to:**  
+A Good README Template by Billie Thompson github.com/PurpleBooth/a-good-readme-template  
 makeareadme.com by Danny Guo
 ## FAQ
-*Why is Markdown better than a word processor?*
+*Why is Markdown better than a word processor?*  
 Markdown is better to use than a word processor because it is simple to convert to HTML. Markdown is also a lot easier to learn, write, and read than HTML! This makes it your best choice for any formatted text that will be published online.
 
-*Why is my resume not showing up?*
+
+*Why is my resume not showing up?*  
 There could be a few reasons why your resume is not showing up.
 * Your GitHub account is not public
 * Your resume file is not titled index.md
-* 
